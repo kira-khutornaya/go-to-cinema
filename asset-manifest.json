@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/go-to-cinema/static/css/main.eeacaf2a.css",
+    "main.js": "/go-to-cinema/static/js/main.37caa1fa.js",
+    "static/js/787.71f8a1ce.chunk.js": "/go-to-cinema/static/js/787.71f8a1ce.chunk.js",
+    "static/media/background.jpg": "/go-to-cinema/static/media/background.8057f0e543a33be5a896.jpg",
+    "index.html": "/go-to-cinema/index.html",
+    "main.eeacaf2a.css.map": "/go-to-cinema/static/css/main.eeacaf2a.css.map",
+    "main.37caa1fa.js.map": "/go-to-cinema/static/js/main.37caa1fa.js.map",
+    "787.71f8a1ce.chunk.js.map": "/go-to-cinema/static/js/787.71f8a1ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeacaf2a.css",
+    "static/js/main.37caa1fa.js"
+  ]
+}
